@@ -1,0 +1,2 @@
+# AnalisepPreditiva
+REGRESSÃO LINEAR
